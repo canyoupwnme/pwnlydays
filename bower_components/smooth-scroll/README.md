@@ -1,7 +1,7 @@
 # Smooth Scroll [![Build Status](https://travis-ci.org/cferdinandi/smooth-scroll.svg)](https://travis-ci.org/cferdinandi/smooth-scroll)
 A lightweight script to animate scrolling to anchor links. Smooth Scroll works great with [Gumshoe](https://github.com/cferdinandi/gumshoe).
 
-[Download Smooth Scroll](https://github.com/cferdinandi/smooth-scroll/archive/master.zip) / [View the demo](http://cferdinandi.github.io/smooth-scroll/)
+[Download Smooth Scroll](https://github.com/cferdinandi/smooth-scroll/archive/master.zip) / [View the demo](https://cferdinandi.github.io/smooth-scroll/)
 
 **In This Documentation**
 
@@ -53,20 +53,20 @@ In the footer of your page, after the content, initialize Smooth Scroll. And tha
 You can install Smooth Scroll with your favorite package manager.
 
 * **[NPM](https://www.npmjs.org/):** `npm install cferdinandi/smooth-scroll`
-* **[Bower](http://bower.io/):** `bower install https://github.com/cferdinandi/smooth-scroll.git`
-* **[Component](http://component.io/):** `component install cferdinandi/smooth-scroll`
+* **[Bower](https://bower.io/):** `bower install https://github.com/cferdinandi/smooth-scroll.git`
+* **[Component](https://component.io/):** `component install cferdinandi/smooth-scroll`
 
 
 
 ## Working with the Source Files
 
-If you would prefer, you can work with the development code in the `src` directory using the included [Gulp build system](http://gulpjs.com/). This compiles, lints, and minifies code, and runs unit tests. It's the same build system that's used by [Kraken](http://cferdinandi.github.io/kraken/), so it includes some unnecessary tasks and Sass variables but can be dropped right in to the boilerplate without any configuration.
+If you would prefer, you can work with the development code in the `src` directory using the included [Gulp build system](https://gulpjs.com/). This compiles, lints, and minifies code, and runs unit tests. It's the same build system that's used by [Kraken](https://cferdinandi.github.io/kraken/), so it includes some unnecessary tasks and Sass variables but can be dropped right in to the boilerplate without any configuration.
 
 ### Dependencies
 Make sure these are installed first.
 
-* [Node.js](http://nodejs.org)
-* [Gulp](http://gulpjs.com) `sudo npm install -g gulp`
+* [Node.js](https://nodejs.org)
+* [Gulp](https://gulpjs.com) `sudo npm install -g gulp`
 
 ### Quick Start
 
@@ -74,7 +74,7 @@ Make sure these are installed first.
 2. Run `npm install` to install required files.
 3. When it's done installing, run one of the task runners to get going:
 	* `gulp` manually compiles files.
-	* `gulp watch` automatically compiles files when changes are made and applies changes using [LiveReload](http://livereload.com/).
+	* `gulp watch` automatically compiles files when changes are made and applies changes using [LiveReload](https://livereload.com/).
 
 
 
@@ -131,7 +131,7 @@ smoothScroll.init({
 * `easeOutQuint`
 
 
-Learn more about the different easing patterns and what they do at [easings.net](http://easings.net/).
+Learn more about the different easing patterns and what they do at [easings.net](https://easings.net/).
 
 ### Override settings with data attributes
 
@@ -150,7 +150,7 @@ Smooth Scroll also lets you override global settings on a link-by-link basis usi
 </a>
 ```
 
-**Note:** You must use [valid JSON](http://jsonlint.com/) in order for the `data-options` feature to work.
+**Note:** You must use [valid JSON](https://jsonlint.com/) in order for the `data-options` feature to work.
 
 ### Use Smooth Scroll events in your own scripts
 
@@ -244,7 +244,7 @@ function YOURPREFIX_custom_nav_attributes ( $atts, $item, $args ) {
 add_filter( 'nav_menu_link_attributes', 'YOURPREFIX_custom_nav_attributes', 10, 3 );
 ```
 
-**Source:** http://wordpress.stackexchange.com/questions/121123/how-to-add-a-data-attribute-to-a-wordpress-menu-item
+**Source:** https://wordpress.stackexchange.com/questions/121123/how-to-add-a-data-attribute-to-a-wordpress-menu-item
 
 
 

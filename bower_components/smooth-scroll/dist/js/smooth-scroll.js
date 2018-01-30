@@ -1,10 +1,10 @@
 /**
  * smooth-scroll v7.0.0
  * Animate scrolling to anchor links, by Chris Ferdinandi.
- * http://github.com/cferdinandi/smooth-scroll
+ * https://github.com/cferdinandi/smooth-scroll
  * 
  * Free to use under the MIT License.
- * http://gomakethings.com/mit/
+ * https://gomakethings.com/mit/
  */
 
 (function (root, factory) {
@@ -210,7 +210,7 @@
 					firstCodeUnit === 0x002D
 				)
 			) {
-				// http://dev.w3.org/csswg/cssom/#escape-a-character-as-code-point
+				// https://dev.w3.org/csswg/cssom/#escape-a-character-as-code-point
 				result += '\\' + codeUnit.toString(16) + ' ';
 				continue;
 			}
@@ -233,7 +233,7 @@
 			}
 
 			// Otherwise, the escaped character.
-			// http://dev.w3.org/csswg/cssom/#escape-a-character
+			// https://dev.w3.org/csswg/cssom/#escape-a-character
 			result += '\\' + string.charAt(index);
 
 		}

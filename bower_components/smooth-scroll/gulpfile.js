@@ -86,13 +86,13 @@ var banner = {
 		' * <%= package.repository.url %>\n' +
 		' * \n' +
 		' * Free to use under the MIT License.\n' +
-		' * http://gomakethings.com/mit/\n' +
+		' * https://gomakethings.com/mit/\n' +
 		' */\n\n',
 	min :
 		'/**' +
 		' <%= package.name %> v<%= package.version %>, by Chris Ferdinandi' +
 		' | <%= package.repository.url %>' +
-		' | Licensed under MIT: http://gomakethings.com/mit/' +
+		' | Licensed under MIT: https://gomakethings.com/mit/' +
 		' */\n'
 };
 

@@ -1,10 +1,10 @@
 /**
  * smooth-scroll v7.0.0
  * Animate scrolling to anchor links, by Chris Ferdinandi.
- * http://github.com/cferdinandi/smooth-scroll
+ * https://github.com/cferdinandi/smooth-scroll
  * 
  * Free to use under the MIT License.
- * http://gomakethings.com/mit/
+ * https://gomakethings.com/mit/
  */
 
 (function (root, factory) {

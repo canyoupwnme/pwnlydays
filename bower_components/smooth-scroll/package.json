@@ -5,12 +5,12 @@
 	"main": "./dist/js/smooth-scroll.js",
 	"author": {
 		"name": "Chris Ferdinandi",
-		"url": "http://gomakethings.com"
+		"url": "https://gomakethings.com"
 	},
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "http://github.com/cferdinandi/smooth-scroll"
+		"url": "https://github.com/cferdinandi/smooth-scroll"
 	},
 	"devDependencies": {
 		"gulp": "^3.9.0",
