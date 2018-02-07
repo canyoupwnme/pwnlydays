@@ -1,0 +1,17 @@
+.partner-box-main {
+  background: url(../images/partner/partner-main.jpg) no-repeat center center / contain;
+  opacity: .8 !important;
+}
+
+.partner-box-local-0 {
+  background: url(../images/partner/partner-local-0.jpg) no-repeat center center / contain;
+  opacity: .6 !important;
+}
+.partner-box-local-1 {
+  background: url(../images/partner/partner-local-1.jpg) no-repeat center center / contain;
+  opacity: .6 !important;
+}
+.partner-box-local-2 {
+  background: url(../images/partner/partner-local-2.jpg) no-repeat center center / contain;
+  opacity: .6 !important;
+}
