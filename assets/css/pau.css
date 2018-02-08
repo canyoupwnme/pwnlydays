@@ -15,3 +15,10 @@
   background: url(../images/partner/partner-local-2.jpg) no-repeat center center / contain;
   opacity: .6 !important;
 }
+.partner-box-local-3 {
+  background: url(../images/partner/partner-local-3.jpg) no-repeat center center / contain;
+  opacity: .6 !important;
+}
+.partner-blackbox {
+  background: url(../images/partner/partner-7.jpg) no-repeat center center / contain;
+}
