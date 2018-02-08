@@ -7,18 +7,22 @@
   background: url(../images/partner/partner-local-0.jpg) no-repeat center center / contain;
   opacity: .6 !important;
 }
+
 .partner-box-local-1 {
   background: url(../images/partner/partner-local-1.jpg) no-repeat center center / contain;
   opacity: .6 !important;
 }
+
 .partner-box-local-2 {
   background: url(../images/partner/partner-local-2.jpg) no-repeat center center / contain;
   opacity: .6 !important;
 }
+
 .partner-box-local-3 {
   background: url(../images/partner/partner-local-3.jpg) no-repeat center center / contain;
   opacity: .6 !important;
 }
+
 .partner-blackbox {
   background: url(../images/partner/partner-7.jpg) no-repeat center center / contain;
 }
