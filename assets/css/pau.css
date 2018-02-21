@@ -1,5 +1,9 @@
 .partner-box-main {
   background: url(../images/partner/partner-main.jpg) no-repeat center center / contain;
+  opacity: .9 !important;
+}
+.partner-box-gold {
+  background: url(../images/partner/partner-gold.png) no-repeat center center / contain;
   opacity: .8 !important;
 }
 
