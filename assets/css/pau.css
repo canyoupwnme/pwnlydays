@@ -1,12 +1,24 @@
 .partner-box-main {
-  background: url(../images/partner/partner-main.jpg) no-repeat center center / contain;
+  background: url(../images/partner/partner-11.png) no-repeat center center / contain;
   opacity: .9 !important;
 }
-.partner-box-gold {
-  background: url(../images/partner/partner-gold.jpg) no-repeat center center / contain;
-  opacity: .8 !important;
+.partner-box-local-7 {
+  background: url(../images/partner/partner-2.png) no-repeat center center / contain;
+  opacity: .7 !important;
 }
 
+.partner-box-local-6 {
+  background: url(../images/partner/partner-10.png) no-repeat center center / contain;
+  opacity: .8 !important;
+}
+.partner-box-local-5 {
+  background: url(../images/partner/partner-9.png) no-repeat center center / contain;
+  opacity: .8 !important;
+}
+.partner-box-local-4 {
+  background: url(../images/partner/partner-8.png) no-repeat center center / contain;
+  opacity: .8 !important;
+}
 .partner-box-local-0 {
   background: url(../images/partner/partner-local-0.jpg) no-repeat center center / contain;
   opacity: .6 !important;
@@ -29,4 +41,8 @@
 
 .partner-blackbox {
   background: url(../images/partner/partner-7.jpg) no-repeat center center / contain;
+}
+.col-centered{
+  float: none;
+  margin: 0 auto;
 }
